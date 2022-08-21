@@ -1,2 +1,2 @@
 # Cgame
-game with C programming langage and SDL
+game with C programming langage and SDLgame in C with SDL 
